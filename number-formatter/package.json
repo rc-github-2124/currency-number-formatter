@@ -1,0 +1,11 @@
+{
+  "name": "currency-number-formatter",
+  "version": "1.0.1",
+  "description": "A simple number formatter for large numbers with currency support.",
+  "main": "index.js",
+  "author": "Rohit Chavan",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
